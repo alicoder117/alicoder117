@@ -1,5 +1,6 @@
 ### Hi there 👋
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicoder117&hide_progress=false" >
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicoder117&show_icons=true&theme=radical)
 <!--
 **alicoder117/alicoder117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
